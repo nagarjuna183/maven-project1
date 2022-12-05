@@ -4,7 +4,7 @@ i<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org
   <groupId>testproject</groupId>
   <artifactId>ProjectWeb</artifactId>
   <packaging>war</packaging>
-  <version>86.0</version>
+  <version>85.0</version>
   <name>ProjectWeb Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -16,6 +16,6 @@ i<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org
     </dependency>
   </dependencies>
   <build>
-    <finalName>devops86</finalName>
+    <finalName>devops85</finalName>
   </build>
 </project>
