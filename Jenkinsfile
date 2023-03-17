@@ -11,7 +11,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'Test-stage'
-                build quietPeriod: 5, job: 'tomcat aws'
+                build quietPeriod: 5, job: 'tomcat-linux'
             }
         }
        
